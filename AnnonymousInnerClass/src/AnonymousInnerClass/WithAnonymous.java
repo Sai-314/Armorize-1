@@ -20,7 +20,7 @@ public class WithAnonymous {
 			@Override
 			public void greeting() {
 				System.out.println("I'm Saiiii");
-
+				System.out.println("Please create another service object and print your name");
 			}
 		};
 		s2.greeting();
