@@ -22,6 +22,7 @@ public class WithAnonymous {
 				System.out.println("I'm Saiiii");
 				System.out.println("Please create another service object and print your name");
 				System.out.println("Hello I'm shankarteja");
+				System.out.println("java");
 			}
 		};
 		s2.greeting();
